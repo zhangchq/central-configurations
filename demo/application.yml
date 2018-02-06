@@ -1,3 +1,4 @@
 foo:
   bar: apple
   bar2: bannana
+secret: '{cipher}1afaf8c78b34ff326a40216d2913fdfc1841c945aff707ec6e62bdc533a63227'
